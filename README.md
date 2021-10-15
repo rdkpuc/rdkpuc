@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rdkpuc
+- 👋 Hi, I’m Thiago Gomes
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on what i can help
